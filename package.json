@@ -1,6 +1,6 @@
 {
   "name": "claude-code-merge-queue",
-  "version": "0.1.23",
+  "version": "0.1.24",
   "description": "Local merge queue for parallel Claude Code agents",
   "main": "src/index.ts",
   "scripts": {
